@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lexmoore123
+- 🌱 I’m currently learning data analysis
+- 💞️ I’m looking to connect with future employers
